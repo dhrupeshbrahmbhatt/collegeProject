@@ -1,6 +1,7 @@
 {
   "name": "college",
   "private": true,
+  "homepage": "https://dhrupeshbrahmbhatt.github.io/collegeProject/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
